@@ -43,7 +43,7 @@ The goal is to train a machine learning model that can:
 ________________________________________
 **📂 Dataset**
 
-Source: Google Drive Dataset Link
+Source: https://drive.google.com/file/d/1n1I3hEcgN-YKycu174QRVXcqW2xmQk99/view
 
 The dataset includes features such as:
 
@@ -83,19 +83,19 @@ o	Encoding categorical variables
 
 o	Normalizing features
 
-3.	Exploratory Data Analysis (EDA)
+2.	Exploratory Data Analysis (EDA)
    
 o	Visualizing correlations and distributions
 
 o	Understanding key drivers of loan approval
 
-5.	Model Building
+3.	Model Building
    
 o	Training and testing multiple classifiers (Logistic Regression, Decision Tree, Random Forest, etc.)
 
 o	Hyperparameter tuning
 
-7.	Model Evaluation
+4.	Model Evaluation
    
 o	Accuracy, Precision, Recall, F1-Score
 
